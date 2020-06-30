@@ -1,0 +1,108 @@
+OT calculation
+gross salary/22/8 * 2*no of hours worked
+gross salary is salary without deduction
+
+148923 and 150578 not a part of sprint 2
+Timesheet and upcoming leaves
+  9823098230  
+
+ta@2019 password for TA file
+Task 151555: Release support
+150882 Stand-up task
+150581-Bugs from spreadsheet
+151925-Release notes and forms export task
+152233-Smoke test task
+
+New task-
+parent activity: Activity 167453: Sprint 4 - Other activities
+Task 167955: Scrum ceremonies (Stand up)
+Task 167954: Packaging and deployment
+Task 167952: Development - support
+Task 167454: Testing - support (Raising bugs from spreadsheet,smoke test)
+Task 167953: BA/PO - support
+Task 168000: Meetings
+170533-Downtown
+149694-Absense
+
+Sprint 5 new task
+Task 171679: Packaging and deployment
+Task 171686: Development - support
+Task 171688: Testing - support (Raising bugs from spreadsheet,smoke test)
+Task 171690: Scrum ceremonies(Stand up)
+Task 171691: Meetings
+Activity 171677: Sprint 5 - Other activities
+
+Sprint 6 Other activities:
+    Task 178378: Testing - support (Raising bugs from spreadsheet,smoke test)
+    Task 178379: Development - support
+    Task 178380: Meetings
+    Task 178381: Packaging and deployment
+    Task 178382: Scrum ceremonies (Stand up)
+
+
+Sprint 7 Other activities:
+    Task 183621: BA/PO - tasks and team support
+    Task 183623: Project management: Team, delivery and status updates
+    Task 183624: Testing - support
+    Task 183625: Development - support
+    Task 183626: Meetings
+    Task 183628: Packaging and deployment
+    Task 183629: Scrum ceremonies 
+
+    Sprint 8 Other activities:
+    Task 204998: Testing - support
+    Task 205001: Development - support
+    Task 205002: Meetings
+    Task 205004: Packaging and deployment
+    Task 205005: Scrum ceremonies
+    Task 205006: BA/PO - tasks and team support
+    Task 205007: Project management: Team, delivery and status updates
+ 
+(1 liked)
+
+Common task
+Project updates (test)-148004
+170533-Downtown (Sprint specific)
+149694-Absense
+Company meetings (test)-147448
+
+2482 and 2289
+
+
+150579
+116840
+148935
+148934
+158883
+118050
+
+
+http://ci-intranet/SitePages/ViewGallery.aspx
+Outlook
+9545679320/Tushar@123
+
+8805708028
+bhavani.daggu@gspann.com
+Telephone no-020 7937 7211
+
+$2a$07$kbZoY95.S86xJLBqB/ur7Ov7meKhO3j9jSvijUiGpGchcwskeEodq
+Capita@123
+
+UAT users
+SCH198867_1@dispostable.com and SCH198867_2@dispostable.com/Capita@123 for SCH198867
+LAS1017@dispostable/Capita@123
+tushar.mehan@capita.co.uk/Testing@123
+ishankumar.verma@capita.co.uk/Capita@123
+both for SCH198867
+SCH1025760@dispostable.com/Capita@123
+SCH1027022@dispostable.com/Testing@123
+SCH1027236 and SCH1027235
+
+149694-Optional holiday section
+MRK13677
+
+Pin code-SO14 7AY
+TRN-1234567
+National Insurance no-AJ100256A
+
+chrome://settings/passwords
